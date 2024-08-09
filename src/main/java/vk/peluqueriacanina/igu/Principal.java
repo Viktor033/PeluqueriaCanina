@@ -111,10 +111,9 @@ public class Principal extends javax.swing.JFrame {
             .addGap(0, 0, Short.MAX_VALUE)
         );
 
-        IMG_Principal.setIcon(new javax.swing.ImageIcon("D:\\PROYECTOS\\PROYECTOS PERSONALES\\PELUQUERIA CANINA\\PeluqueriaCanina\\PERRO EN DUCHA.png")); // NOI18N
         IMG_Principal.setText("jLabel2");
 
-        Footer.setText("vk-dev-design");
+        Footer.setText("Copyright © 2024 by VK--Developer | All Rights Reserved");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
